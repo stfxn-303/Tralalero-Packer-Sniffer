@@ -71,6 +71,6 @@ MIT License. Use freely, just don't sell it as-is.
 # 🧠 Author
 
 Stefano
-Inspired by old-school Windows nostalgia and modern network security tools.
+Inspired by old-school Windows nostalgia and modern network security tools and italian brainrot memes to create a lighthearted fun project
 
 
