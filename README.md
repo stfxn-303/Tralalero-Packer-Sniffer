@@ -73,5 +73,4 @@ MIT License. Use freely, just don't sell it as-is.
 Stefano
 Inspired by old-school Windows nostalgia and modern network security tools.
 
-```markdown
-![Screenshot](assets/screenshot.png)
+
