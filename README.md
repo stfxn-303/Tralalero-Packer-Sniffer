@@ -1,4 +1,4 @@
-# Tralalero-Packer-Sniffer
+# Tralalero-Packet-Sniffer
 A simple yet highly functional packet sniffer inspired by wireshark and tralalero tralala
 
 # 🪟 Tralalero Packet Sniffer 95
@@ -6,7 +6,7 @@ A simple yet highly functional packet sniffer inspired by wireshark and tralaler
 A retro-themed network packet sniffer built with Python, Scapy, and Tkinter — styled to look like Windows 95!  
 It uses the **ChicagoFLF** font and a gray UI to match the old-school aesthetic.
 
-![Screenshot](assets/) 
+![Screenshot](Tralalero_Tralala.png) 
 
 ---
 
